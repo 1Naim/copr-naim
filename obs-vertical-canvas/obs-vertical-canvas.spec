@@ -3,8 +3,8 @@
 %define debug_package %{nil}
 
 Name:       obs-vertical-canvas
-Version:    1.4.7
-Release:    2%{?dist}
+Version:    1.4.8
+Release:    1%{?dist}
 Summary:    Vertical canvas plugin for OBS
 
 License:    GPL=2.0
