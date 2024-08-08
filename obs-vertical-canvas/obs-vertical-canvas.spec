@@ -9,7 +9,7 @@ Summary:    Vertical canvas plugin for OBS
 
 License:    GPL=2.0
 URL:        https://github.com/Aitum/obs-vertical-canvas
-Source0:    %{URL}/archive/refs/tags/%{name}-%{version}.tar.gz
+Source0:    %{URL}/archive/refs/tags/%{version}.tar.gz
 
 BuildRequires:  cmake
 BuildRequires:  gcc
