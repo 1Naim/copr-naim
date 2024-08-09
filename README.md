@@ -6,3 +6,4 @@ Supports last 2 latest Fedora versions and to an extent, OpenSUSE Tumbleweed.
 Currently packaged stuff:
 - [obs-vertical-canvas](https://github.com/Aitum/obs-vertical-canvas)
 - [scx-scheds-git](https://github.com/sched-ext/scx)
+- [obs-aitum-multistream](https://github.com/Aitum/obs-aitum-multistream)
