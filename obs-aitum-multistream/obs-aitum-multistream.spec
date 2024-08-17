@@ -7,7 +7,7 @@
 # Establish the name and source
 
 Name:       obs-aitum-multistream
-Version:    1.0.2
+Version:    1.0.3
 Release:    1%{?dist}
 Summary:    Multistream plugin for OBS
 License:    GPL=2.0
